@@ -24,3 +24,8 @@ Python Setup
 - Application is made to run the whole system easily.
 
 
+#########
+Apps command
+########
+
+pyinstaller --onefile -n myapp file_name.py
